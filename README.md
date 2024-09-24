@@ -4,9 +4,6 @@ This is a Kali Linux Docker image that can be pulled from GitHub Container Regis
 
 ## Usage
 
-![Docker Image Version](https://ghcr.io/askdatdude/kali-docker)
-
-
 To pull the image:
 
 ```bash
